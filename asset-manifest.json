@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-gh-pages/static/css/main.e6c13ad2.css",
+    "main.js": "/react-gh-pages/static/js/main.f201fca6.js",
+    "static/media/mebel.png": "/react-gh-pages/static/media/mebel.dd067a785f2a245a429f.png",
+    "static/media/family.png": "/react-gh-pages/static/media/family.aeb70712c32bf7cbcfc3.png",
+    "static/media/IMG_2.png": "/react-gh-pages/static/media/IMG_2.ba5ff01635b960c77624.png",
+    "static/media/logo.svg": "/react-gh-pages/static/media/logo.1fae2c25e86671dad6b7e4c79f3b771c.svg",
+    "static/media/IMG_1.png": "/react-gh-pages/static/media/IMG_1.4f11243a4f3e67185294.png",
+    "static/media/brand.png": "/react-gh-pages/static/media/brand.30c1d653659778e3754f.png",
+    "static/media/insta.svg": "/react-gh-pages/static/media/insta.b5377419ad1c45be7869d492785166ac.svg",
+    "static/media/viber.svg": "/react-gh-pages/static/media/viber.075f26ae66d430f1d58446af3c05550d.svg",
+    "static/media/telegram.svg": "/react-gh-pages/static/media/telegram.9eb71c5bc6c6377e2526dea455777a96.svg",
+    "index.html": "/react-gh-pages/index.html",
+    "main.e6c13ad2.css.map": "/react-gh-pages/static/css/main.e6c13ad2.css.map",
+    "main.f201fca6.js.map": "/react-gh-pages/static/js/main.f201fca6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.f201fca6.js"
+  ]
+}
